@@ -1,0 +1,2 @@
+The system allows us to get the most complete information about the company.  The user can find the projects of the company, ask questions and receive feedback. The system allows applicants to apply for a job.
+Main functionality: answer all the applicant’s questions about the company, have the opportunity for the HR (Manager) to post  a vacancy and give the applicant the oportunity to apply for a job. In the future Company will be used this website for automating the HR business processes.
